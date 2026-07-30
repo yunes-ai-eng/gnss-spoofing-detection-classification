@@ -157,7 +157,7 @@ This project demonstrates how Artificial Intelligence can enhance GNSS security 
 # 👨‍💻 Author
 
 **Yunes Abdulghani Mohammed Ghaleb**
-
+**alshameeri.ai.eng@gmail.com
 AI & Machine Learning Engineer
 
 ---
